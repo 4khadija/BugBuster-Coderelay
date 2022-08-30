@@ -34,6 +34,11 @@ Here admin can check upcoming complaints lodged by students
 Here admin can check complaints lodged by students and change the status as ACCEPT or DECLINE
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/75372993/187441610-9afc8ba7-d520-432c-aa49-bb6d2d5acce7.png">
 
+# Take a look at our website:
+
+
+https://user-images.githubusercontent.com/75372993/187449248-df9da0a0-8f83-48b6-ad29-6918b6676c84.mp4
+
 
 
 # Competencies of our site :
